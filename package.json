@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/matthiasbeer/trainings-rxjs-operators#readme",
   "dependencies": {
+    "esm": "^3.2.25",
     "rxjs": "^7.3.0"
   }
 }
